@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
-
+import pandas_profiling 
+from pandas_profiling import ProfileReport
 
 class Up:
 
